@@ -24,4 +24,4 @@ Visit http://docs.c9.io for support, or to learn more about using Cloud9 IDE.
 To watch some training videos, visit http://www.youtube.com/user/c9ide
 
 
-# finance-tracker
+# This is the finance tracker app from the Complete Ruby on rails Developer course
